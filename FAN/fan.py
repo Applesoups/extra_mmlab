@@ -18,8 +18,7 @@ import torch.nn as nn
 # from timm.models.vision_transformer import Mlp as MlpOri
 # from timm.models.registry import register_model
 #from timm.models.layers import to_2tuple
-from timm.models.cait import  ClassAttn
-
+from cait.cait import  Class_Attention as ClassAttn
 from mmcls.models.builder import BACKBONES
 from mmcv.runner.base_module import BaseModule, ModuleList, Sequential
 from mmcv.cnn.bricks import DropPath, Linear, Conv2d, Dropout
