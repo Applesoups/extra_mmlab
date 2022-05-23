@@ -5,3 +5,5 @@ https://github.com/vtddggg/Robust-Vision-Transformer
 https://github.com/SHI-Labs/Neighborhood-Attention-Transformer
 ## FAN
 https://github.com/NVlabs/FAN
+## CaiT
+https://github.com/facebookresearch/deit
